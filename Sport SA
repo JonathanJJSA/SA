@@ -1,0 +1,16 @@
+#EXTM3U 
+
+
+
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",Estádio TNT Sports 1 HD
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/71904.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",Estádio TNT Sports 2 HD
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/71905.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",Estádio TNT Sports 3 HD
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/71906.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",Estádio TNT Sports 4 HD
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/76671.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",Estádio TNT Sports 5 HD
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/76672.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",Estádio TNT Sports 6 HD
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/76673.m3u8
