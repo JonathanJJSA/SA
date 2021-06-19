@@ -1,5 +1,35 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV FHD [H265]
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/72330.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | 4K [FHDR]",SporTV3 4K FHDR
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/103471.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | 4K [FHDR]",SporTV 4K FHDR
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/72331.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV FHD
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/72329.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV HD
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/72332.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV SD
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/72333.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV",SporTV 2 FHD [H265]
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/72322.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | 4K [FHDR]",SporTV 2 4K FHDR
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/103472.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV",SporTV 2 FHD
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/72321.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV",SporTV 2 HD
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/72323.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV",SporTV 2 SD
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/72324.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV",SporTV 3 FHD [H265]
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/72326.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV",SporTV 3 FHD
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/72325.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV",SporTV 3 HD
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/72327.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV",SporTV 3 SD
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/72328.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",Estádio TNT Sports 1 HD
