@@ -1,0 +1,16 @@
+
+#EXTM3U
+
+
+
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47889.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/jAG" group-title="Canais | 24 Horas",[24H] Pegadinhas Cameras Escondidas Silvio Santos
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47905.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/jAG" group-title="Canais | 24 Horas",[24H] Pegadinhas da RedeTV
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47906.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/a0N" group-title="Canais | 24 Horas",[24H] Pegadinhas Jalals
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47907.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/jAG" group-title="Canais | 24 Horas",[24H] Pegadinhas Joao Kleber
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47908.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/jAG" group-title="Canais | 24 Horas",[24H] Pegadinhas Silvio Santos
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47909.m3u8
