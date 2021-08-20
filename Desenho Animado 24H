@@ -1,0 +1,203 @@
+#EXTM3U
+
+
+#24H
+
+
+
+#EXTINF:-1 tvg-logo="http://a5.vc/Msm" group-title="Canais | 24 Horas",[24H] Tom e Jerry
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/48066.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Sni" group-title="Canais | 24 Horas",[24H] Coelho Ricochete
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47590.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/ZOL" group-title="Canais | 24 Horas",[24H] Comichao e Cocadinha [LEG]
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47592.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/zjF" group-title="Canais | 24 Horas",[24H] Coragem O Cao Covarde
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47594.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/81r" group-title="Canais | 24 Horas",[24H] Corrida Maluca
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47596.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/TPK" group-title="Canais | 24 Horas",[24H] Denis o Pimentinha
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47606.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/W3i" group-title="Canais | 24 Horas",[24H] Desenhos Biblicos
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47607.m3u8
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47603.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/BRw" group-title="Canais | 24 Horas",[24H] Dick Vigarista e Muttley - Maquinas Voadoras
+#EXTINF:-1 tvg-logo="http://a5.vc/myF" group-title="Canais | 24 Horas",[24H] Doug
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47630.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://a5.vc/4wl" group-title="Canais | 24 Horas",[24H] O Maskara - Serie Animada
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47817.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Ud1" group-title="Canais | 24 Horas",[24H] Mortal Kombat
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47792.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/jTX" group-title="Canais | 24 Horas",[24H] Caverna do Dragao
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47575.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/D4g" group-title="Canais | 24 Horas",[24H] A Familia Addams
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47463.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/iJ5" group-title="Canais | 24 Horas",[24H] Aladdin Desenho Animado
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47480.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/dV9" group-title="Canais | 24 Horas",[24H] A Pantera Cor de Rosa
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47470.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/dYB" group-title="Canais | 24 Horas",[24H] As Aventuras de Jackie Chan
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47483.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/pHP" group-title="Canais | 24 Horas",[24H] As Aventuras de Tintim
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47485.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/M7L" group-title="Canais | 24 Horas",[24H] As Tartarugas Ninja
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47488.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/rHq" group-title="Canais | 24 Horas",[24H] A Turma do Charlie Brown e Snoopy
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47472.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Kvp" group-title="Canais | 24 Horas",[24H] A Turma do Pateta
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47473.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/9bt" group-title="Canais | 24 Horas",[24H] Baby Looney Tunes
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47493.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://a5.vc/c4T" group-title="Canais | 24 Horas",[24H] Dragon Ball GT
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47632.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/1F6" group-title="Canais | 24 Horas",[24H] Dragon Ball Super - S01
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47633.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/1F6" group-title="Canais | 24 Horas",[24H] Dragon Ball Super - S02
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47634.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/1F6" group-title="Canais | 24 Horas",[24H] Dragon Ball Super - S03
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47635.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/1F6" group-title="Canais | 24 Horas",[24H] Dragon Ball Super - S04
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47636.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/1F6" group-title="Canais | 24 Horas",[24H] Dragon Ball Super - S05
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47637.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/NNK" group-title="Canais | 24 Horas",[24H] Dragon Ball Z - Saga Androids
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47642.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/NNK" group-title="Canais | 24 Horas",[24H] Dragon Ball Z - Saga de Cell
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47638.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/NNK" group-title="Canais | 24 Horas",[24H] Dragon Ball Z - Saga de Freeza
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47639.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/NNK" group-title="Canais | 24 Horas",[24H] Dragon Ball Z - Saga de Garlic Jr
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47640.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/NNK" group-title="Canais | 24 Horas",[24H] Dragon Ball Z - Saga de Majin Boo
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47641.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/NNK" group-title="Canais | 24 Horas",[24H] Dragon Ball Z - Saga Sayajins
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47643.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/NNK" group-title="Canais | 24 Horas",[24H] Dragon Ball Z - Saga Torneio de Outro Mundo
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47644.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="http://a5.vc/aEE" group-title="Canais | 24 Horas",[24H] Os Cavaleiros dos Zodiacos - Competlo
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47835.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/aEE" group-title="Canais | 24 Horas",[24H] Os Cavaleiros dos Zodiacos - Saga de Asgard
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47836.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/aEE" group-title="Canais | 24 Horas",[24H] Os Cavaleiros dos Zodiacos - Saga de Hades
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47837.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/aEE" group-title="Canais | 24 Horas",[24H] Os Cavaleiros dos Zodiacos - Saga de Poseidon
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47838.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/aEE" group-title="Canais | 24 Horas",[24H] Os Cavaleiros dos Zodiacos - Saga do Santuario
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47839.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S01
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47854.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S02
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47855.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S03
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47856.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S04
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47857.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S05
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47858.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S06
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47859.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S07
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47860.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S08
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47861.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S09
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47862.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S10
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47863.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S11
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47864.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S12
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47865.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S13
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47866.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S14
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47867.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S15
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47868.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S16
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47869.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S17
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47870.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S18
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47871.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S19
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47872.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S20
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47873.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S21
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47874.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S22
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47875.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S23
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47876.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S24
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47877.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S25
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47878.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S26
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47879.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S27
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47880.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/31r" group-title="Canais | 24 Horas",[24H] Os Simpsons - S28
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47881.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S01
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47992.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S02
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47993.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S03
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47994.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S04
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47995.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S05
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47996.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S06
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47997.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S07
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47998.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S08
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/47999.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S09
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/48000.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S10
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/48001.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S11
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/48002.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S12
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/48003.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S13
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/48004.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S14
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/48005.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S15
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/48006.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S16
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/48007.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S17
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/48008.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S18
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/48009.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S19
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/48010.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S20
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/48011.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Noa" group-title="Canais | 24 Horas",[24H] South Park - S21
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/48012.m3u8
+
+
+
+
+
+
