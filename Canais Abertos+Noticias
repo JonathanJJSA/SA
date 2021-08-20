@@ -1,0 +1,50 @@
+#EXTM3U
+
+
+#CANAIS ABERTOS+ Noticias
+
+
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Brasilia HD
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/71974.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Brasilia SD
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/71975.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Brasilia HD
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/72629.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/NuR" group-title="Canais | Abertos",RedeTV HD
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/72299.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT SP HD
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/72598.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band SP HD
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/72597.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Canais | Notícias",Globo News HD
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/71999.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Notícias",Globo News SD
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/72000.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Canais | Notícias",Band News HD
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/71791.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Canais | Notícias",CNN Brasil HD
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/71839.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://a5.vc/DPD" group-title="Canais | Notícias",Record News HD
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/72272.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://a5.vc/hNk" group-title="Canais | Abertos",TV Sena SD
+http://b5.vc:80/live/Qtv4AT6FC7/1607740720/72416.m3u8do
+
+
