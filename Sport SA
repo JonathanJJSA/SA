@@ -122,6 +122,19 @@ http://b5.vc:80/live/Qtv4AT6FC7/1607740720/76673.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://ccdn.so:80/images/92d69464653edd96a2bbae09d3d3e98c.png" group-title="Canais | Campeonatos Estaduais",Campeonato Carioca 1 FHD
+http://b5.vc:80/Qtv4AT6FC7/1607740720/96513.m3u8
+#EXTINF:-1 tvg-logo="http://ccdn.so:80/images/92d69464653edd96a2bbae09d3d3e98c.png" group-title="Canais | Campeonatos Estaduais",Campeonato Carioca 1 HD
+http://b5.vc:80/Qtv4AT6FC7/1607740720/96515.m3u8
+#EXTINF:-1 tvg-logo="http://ccdn.so:80/images/92d69464653edd96a2bbae09d3d3e98c.png" group-title="Canais | Campeonatos Estaduais",Campeonato Carioca 1 SD
+http://b5.vc:80/Qtv4AT6FC7/1607740720/96516.m3u8
+#EXTINF:-1 tvg-logo="http://ccdn.so:80/images/92d69464653edd96a2bbae09d3d3e98c.png" group-title="Canais | Campeonatos Estaduais",Campeonato Carioca 2 FHD
+http://b5.vc:80/Qtv4AT6FC7/1607740720/96517.m3u8
+#EXTINF:-1 tvg-logo="http://ccdn.so:80/images/92d69464653edd96a2bbae09d3d3e98c.png" group-title="Canais | Campeonatos Estaduais",Campeonato Carioca 2 HD
+http://b5.vc:80/Qtv4AT6FC7/1607740720/96519.m3u8
+
+
+
 
 
 #FACEBOOK WATCH
