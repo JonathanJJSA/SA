@@ -3,7 +3,7 @@
 
 
 #EXTINF:-1 tvg-id="Home" group-title="",Home
-rtsp://192.168.18.64:554/user=aenb_password=jABL7Esw_channel=0_stream=0&amp;onvif=0.sdp?real_stream
+rtsp://192.168.18.64:554/user=Home_password=HSjUsQcY_channel=0_stream=0&onvif=0.sdp?real_stream
 
 
 #Globo
